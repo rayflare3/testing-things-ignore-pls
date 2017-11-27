@@ -1,0 +1,6 @@
+echo "# testing-things-ignore-pls" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rayflare3/testing-things-ignore-pls.git
+git push -u origin master
